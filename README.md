@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Jones Lima
 <div>
-  <a href="https://joneslima.tech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonesrasta&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesrasta&layout-compact&langs_count-16&theme=dark"/>
 </div>
