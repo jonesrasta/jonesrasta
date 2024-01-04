@@ -42,6 +42,6 @@
 <div>
 - 📍Sou de São Paulo Brasil<br>
 - 💻 Trabalho com desenvolvimento front-end <br>
-- 📚 Estudando desenvolvimento back-end com Java </div><br>
+- 📚 Estudando desenvolvimento back-end </div><br>
 
 
