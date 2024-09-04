@@ -6,6 +6,7 @@
 
  ## Skills
   <div style="display: inline_block"><br>
+    ![pngwing com (23)](https://github.com/user-attachments/assets/38b477d9-f319-43f6-a36d-80ec71e08fc8)
   <img align="center" alt="Jones-HTML" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://github.com/user-attachments/assets/691b1d38-2ee5-476e-8de7-5621c012e1d7)">
   <img align="center" alt="Jones-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jones-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
