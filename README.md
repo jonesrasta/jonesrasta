@@ -14,7 +14,8 @@
   <img align="center" alt="Jones-Vue" height="50" width="50" src="https://github.com/user-attachments/assets/503fa5c5-c488-4798-895a-1c935361fec2">    
   <img align="center" alt="node-Js" height="50" width="50" src="https://github.com/user-attachments/assets/876139cc-7530-4d60-960a-b949522ebab8">
   <img align="center" alt="Jones-Ts" height="50" width="50" src="https://github.com/user-attachments/assets/c727ac2d-b402-4777-a746-7e759b3b7876">      
-  <img align="center" alt="Jones-Flutter" height="30" width="30" src= "https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png"/>
+  <img align="center" alt="Jones-Flutter" height="50" width="50" src= "https://github.com/user-attachments/assets/0c564130-92fb-4f58-ac19-fe01d0a9e3f5">
+      <img align="center" alt="Jones-Dart" height="50" width="50" src= "https://github.com/user-attachments/assets/1e6897a7-8e41-4a79-ac1a-5ec79efc773a">
   <img align="center" alt="Jones-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div><br>
   
