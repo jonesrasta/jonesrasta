@@ -15,9 +15,9 @@
   <img align="center" alt="node-Js" height="50" width="50" src="https://github.com/user-attachments/assets/876139cc-7530-4d60-960a-b949522ebab8">
   <img align="center" alt="Jones-Ts" height="50" width="50" src="https://github.com/user-attachments/assets/c727ac2d-b402-4777-a746-7e759b3b7876">      
   <img align="center" alt="Jones-Flutter" height="50" width="50" src= "https://github.com/user-attachments/assets/0c564130-92fb-4f58-ac19-fe01d0a9e3f5">
-      <img align="center" alt="Jones-Dart" height="50" width="50" src= "https://github.com/user-attachments/assets/1e6897a7-8e41-4a79-ac1a-5ec79efc773a">
+  <img align="center" alt="Jones-Dart" height="50" width="50" src= "https://github.com/user-attachments/assets/1e6897a7-8e41-4a79-ac1a-5ec79efc773a">
   <img align="center" alt="Jones-React" height="50" width="50" src="https://github.com/user-attachments/assets/77b71880-36c6-4e43-9d96-08fd28e6e1f4">
-      <img align="center" alt="Jones-Flutter" height="50" width="50" src= "https://github.com/user-attachments/assets/eabe0834-14cd-41c6-b459-7e74dc74de8b">
+  <img align="center" alt="Angular" height="50" width="50" src="https://github.com/user-attachments/assets/d0898154-6d63-4559-aad8-e35f8f443b59">
   </div><br>
   
  ## Ferramentas 
