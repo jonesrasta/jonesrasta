@@ -7,8 +7,8 @@
  ## Skills
   <div style="display: inline_block"><br>
   <img align="center" alt="Jones-HTML" height="50" width="50"src="https://github.com/user-attachments/assets/38b477d9-f319-43f6-a36d-80ec71e08fc8">
-  <img align="center" alt="Jones-CSS" height="30" width="40" src="https://github.com/user-attachments/assets/579077d0-c60f-495a-a46f-f59a4049d62f">
-  <img align="center" alt="Jones-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Jones-CSS" height="50" width="50" src="https://github.com/user-attachments/assets/579077d0-c60f-495a-a46f-f59a4049d62f">
+  <img align="center" alt="Jones-Tailwind" height="50" width="50" src="https://github.com/user-attachments/assets/fce493bb-6311-4e64-89d6-a25c13dcaf39">
   <img align="center" alt="Jones-Tailwind" height="30" width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" />
   <img align="center" alt="Jones-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />     
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />      
