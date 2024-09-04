@@ -16,13 +16,14 @@
   <img align="center" alt="Jones-Ts" height="50" width="50" src="https://github.com/user-attachments/assets/c727ac2d-b402-4777-a746-7e759b3b7876">      
   <img align="center" alt="Jones-Flutter" height="50" width="50" src= "https://github.com/user-attachments/assets/0c564130-92fb-4f58-ac19-fe01d0a9e3f5">
       <img align="center" alt="Jones-Dart" height="50" width="50" src= "https://github.com/user-attachments/assets/1e6897a7-8e41-4a79-ac1a-5ec79efc773a">
-  <img align="center" alt="Jones-React" height="30" width="40" src="https://github.com/user-attachments/assets/77b71880-36c6-4e43-9d96-08fd28e6e1f4">
+  <img align="center" alt="Jones-React" height="50" width="50" src="https://github.com/user-attachments/assets/77b71880-36c6-4e43-9d96-08fd28e6e1f4">
       <img align="center" alt="Jones-Flutter" height="50" width="50" src= "https://github.com/user-attachments/assets/eabe0834-14cd-41c6-b459-7e74dc74de8b">
   </div><br>
   
  ## Ferramentas 
  <div>       
- <img align="center" alt="Jones-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ <img align="center" alt="Jones-VsCode" height="30" width="40" src="https://github.com/user-attachments/assets/e0bf4b5d-834a-4ff5-afb9-5fe375180c33">
+ />
  <img align="center" alt="JonesGit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="center" alt="Jones-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  <img align="center" alt="Jones-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
