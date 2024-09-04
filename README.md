@@ -22,12 +22,11 @@
   
  ## Ferramentas 
  <div>       
- <img align="center" alt="Jones-VsCode" height="30" width="40" src="https://github.com/user-attachments/assets/e0bf4b5d-834a-4ff5-afb9-5fe375180c33">
- />
- <img align="center" alt="JonesGit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="center" alt="Jones-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
- <img align="center" alt="Jones-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
- <img align="center" alt="Jones-Illutrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+ <img align="center" alt="Jones-VsCode" height="60" width="60" src="https://github.com/user-attachments/assets/e0bf4b5d-834a-4ff5-afb9-5fe375180c33">
+ <img align="center" alt="JonesGit" height="50" width="50" src="https://github.com/user-attachments/assets/bd5cfca4-c6d4-4970-bcd9-089bac80f442">
+ <img align="center" alt="Jones-Figma" height="50" width="50" src="https://github.com/user-attachments/assets/ad3ce20c-a981-4a0e-89d7-0bb1a2fa20aa" >
+ <img align="center" alt="Jones-Photoshop" height="50" width="50" src="https://github.com/user-attachments/assets/5e10ce81-6c53-4c9c-90d8-faa922246b1d)">
+ <img align="center" alt="Jones-Illutrator" height="50" width="50" src="https://github.com/user-attachments/assets/e8ac399b-a4f6-4fd0-b05a-9fee2d1337ff">
           
           
           
