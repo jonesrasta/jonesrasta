@@ -22,7 +22,7 @@
   
  ## Ferramentas 
  <div>       
- <img align="center" alt="Jones-VsCode" height="60" width="60" src="https://github.com/user-attachments/assets/e0bf4b5d-834a-4ff5-afb9-5fe375180c33">
+ <img align="center" alt="Jones-VsCode" height="60" width="60" src="https://github.com/user-attachments/assets/6fcffbd7-10d1-4e6b-bddc-b5de36c02f77">
  <img align="center" alt="JonesGit" height="50" width="50" src="https://github.com/user-attachments/assets/bd5cfca4-c6d4-4970-bcd9-089bac80f442">
  <img align="center" alt="Jones-Figma" height="50" width="50" src="https://github.com/user-attachments/assets/ad3ce20c-a981-4a0e-89d7-0bb1a2fa20aa" >
  <img align="center" alt="Jones-Figma" height="50" width="50" src="https://github.com/user-attachments/assets/746d18d9-2acb-463a-87db-37a133fde980" >
