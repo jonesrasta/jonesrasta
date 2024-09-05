@@ -25,6 +25,7 @@
  <img align="center" alt="Jones-VsCode" height="60" width="60" src="https://github.com/user-attachments/assets/e0bf4b5d-834a-4ff5-afb9-5fe375180c33">
  <img align="center" alt="JonesGit" height="50" width="50" src="https://github.com/user-attachments/assets/bd5cfca4-c6d4-4970-bcd9-089bac80f442">
  <img align="center" alt="Jones-Figma" height="50" width="50" src="https://github.com/user-attachments/assets/ad3ce20c-a981-4a0e-89d7-0bb1a2fa20aa" >
+ <img align="center" alt="Jones-Figma" height="50" width="50" src="https://github.com/user-attachments/assets/746d18d9-2acb-463a-87db-37a133fde980" >
  <img align="center" alt="Adobe-XD" height="50" width="50" src="https://github.com/user-attachments/assets/a6644e71-a298-48ad-88a5-a274b2451bcf">
  <img align="center" alt="Jones-Photoshop" height="50" width="50" src="https://github.com/user-attachments/assets/5e10ce81-6c53-4c9c-90d8-faa922246b1d">
  <img align="center" alt="Jones-Illutrator" height="50" width="50" src="https://github.com/user-attachments/assets/e8ac399b-a4f6-4fd0-b05a-9fee2d1337ff">
